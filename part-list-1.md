@@ -1,5 +1,5 @@
-![Discount Banner](https://github.com/wintodayy/parts-directory/blob/main/Discount%20Banner-min.png)
-    
+![Discount Banner](./Discount%20Banner-min.png)
+
 Welcome to Part List! Fill out the form and receive a response within 1 hour. 
 
 🔹 Billions of quality parts delivered to thousands of satisfied customers.
@@ -11,7 +11,8 @@ Welcome to Part List! Fill out the form and receive a response within 1 hour.
 
 
 **Available Parts:**
-[Get A Quote For Any NSN Aviation & Electronic Parts](https://forms.gle/zb5Qi9NdgbbANaDG6) | 5340013531893 | 13229e0161-22 | 5955011794881 | 154064p2 | 6685007812865 | 7636-47a5-1
+| Part Number 1 | Part Number 2 | Part Number 3 | Part Number 4 |
+|---------------|---------------|---------------|---------------|
 3120013309911 | 12361791 | 5910011886850 | 8121-052-651-473m | 5930010368774 | 13at472-t2 | 1560016817031 | 34-1372-2
 1620010290938 | 19063-1 | 3010012421438 | 37258 | 5940014479870 | 1668 | 1730008420659 | 65700-50001-041
 5330016799604 | 18061cnb36 | 4820002025632 | 3n10 | 6150016061656 | 09-2815583-901 | 3020014070960 | 52710633
@@ -3275,3 +3276,4 @@ Welcome to Part List! Fill out the form and receive a response within 1 hour.
 5330010936348 | 3361254-12 | 3020012578856 | 156092 | 6220012944534 | 4428530 | 3040013169700 | 1440pl0924528
 6640014633500 | 5983c06 | 9905123734954 | 5800-5745 | 1560016804714 | 8-7865-23 | 
 5905012445232 | 538213-2180 | 5980013773575 | 61y4-183 | 5325013501373 | 199c6685-part-no-1 | 
+5340013531893 | 13229e0161-22 | 5955011794881 | 154064p2 | 6685007812865 | 7636-47a5-1 | 
